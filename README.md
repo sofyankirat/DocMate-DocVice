@@ -36,7 +36,41 @@
 
 ---
 
+## 📸 Screenshots
+### 🖼️ Logos
+![DocMate Logo](images/DocMate_logo.webp)
+*Official logo of DocMate platform.*  
+
+![DocVice Logo](images/DocVice_logo.webp)  
+*Official logo of DocVice platform.*  
+
+### 📄 About Us Page  
+![About Us Page](images/About_Us_sec1.jpg)
+
+(images/About_Us_sec2.jpg)
+
+(images/About_Us_sec3.jpg)
+
+(images/About_Us_sec4.jpg)
+
+(images/About_Us_sec5.jpg)
+
+*Section introducing our mission and vision for transforming healthcare.*  
+
+### 📞 Contact Us Page  
+![Contact Us Page](images/Contact_Us_sec1.jpg)
+
+(images/Contact_Us_sec2.jpg)
+
+(images/Contact_Us_sec3.jpg)
+
+*Page providing users with ways to reach the team for support or inquiries.*  
+
+---
+
 ## 👨‍💻 Team Codragons  
+### 🖼️ Team Logo
+![Codragons Logo](images/codragons.webp)
 
 - **Frontend Specialists (4)** – Designed and developed the user interface for seamless user experience.  
 - **Backend Specialists (2)** – Built APIs, managed datasets, and integrated data-driven features.  
