@@ -45,24 +45,24 @@
 *Official logo of DocVice platform.*  
 
 ### 📄 About Us Page  
-![About Us Page](images/About_Us_sec1.jpg)
+![About Us Page sec 1](images/About_Us_sec1.jpg)
 
-(images/About_Us_sec2.jpg)
+![About Us Page sec 2](images/About_Us_sec2.jpg)
 
-(images/About_Us_sec3.jpg)
+![About Us Page sec 3](images/About_Us_sec3.jpg)
 
-(images/About_Us_sec4.jpg)
+![About Us Page sec 4](images/About_Us_sec4.jpg)
 
-(images/About_Us_sec5.jpg)
+![About Us Page sec 5](images/About_Us_sec5.jpg)
 
 *Section introducing our mission and vision for transforming healthcare.*  
 
 ### 📞 Contact Us Page  
-![Contact Us Page](images/Contact_Us_sec1.jpg)
+![Contact Us Page sec 1](images/Contact_Us_sec1.jpg)
 
-(images/Contact_Us_sec2.jpg)
+![Contact Us Page sec 2](images/Contact_Us_sec2.jpg)
 
-(images/Contact_Us_sec3.jpg)
+![Contact Us Page sec 3](images/Contact_Us_sec3.jpg)
 
 *Page providing users with ways to reach the team for support or inquiries.*  
 
