@@ -39,9 +39,11 @@
 ## 📸 Screenshots
 ### 🖼️ Logos
 ![DocMate Logo](images/DocMate_logo.webp)
+
 *Official logo of DocMate platform.*  
 
-![DocVice Logo](images/DocVice_logo.webp)  
+![DocVice Logo](images/DocVice_logo.webp)
+
 *Official logo of DocVice platform.*  
 
 ### 📄 About Us Page  
