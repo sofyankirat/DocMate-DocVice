@@ -55,7 +55,7 @@
 
 ![About Us Page sec 4](images/About_Us_sec4.jpg)
 
-![About Us Page sec 5](images/About_Us_sec5.jpg)
+![About Us Page sec 5](images/about_us_sec5.jpg)
 
 *Section introducing our mission and vision for transforming healthcare.*  
 
